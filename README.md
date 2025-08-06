@@ -2,7 +2,7 @@
 Using Data Science to predict SpaceX landing success and rocket reusability. A jupyter notebooks project
 
 - Data collection using API and webscraping of wikipedia
-    -- Using BeautifulSoup and Request libraries to scrape data from tables on the spacex launch wikipedia page
+    - Using BeautifulSoup and Request libraries to scrape data from tables on the spacex launch wikipedia page
 - Data wrangling
     - get number of launches at each launch site
     - get number of each type of orbitals
