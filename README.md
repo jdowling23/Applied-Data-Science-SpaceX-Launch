@@ -12,5 +12,5 @@ Using Data Science to predict SpaceX landing success and rocket reusability. A j
     - Use sqlalchemy and slqlite3 to query table of launch data for useful data such as max payload, which rockets carried max payloads, number of successful/failed landings and which type of landing, etc.
 - Interactive visual dashboard - SpaceX Dashboard
     - Use dash library to create a dashboard with a pie chart and scatter plot visualizing the different launch sites and the successful outcomes
-    ![alt text](https://github.com/jdowling23/Applied-Data-Science-SpaceX-Launch/SpaceX Dashboard/Dahsboard-screenshot.png "Dashboard screenshot")
+    ![alt text](https://github.com/jdowling23/Applied-Data-Science-SpaceX-Launch/SpaceX-Dashboard/Dahsboard-screenshot.png "Dashboard screenshot")
 - Predictive analysis
