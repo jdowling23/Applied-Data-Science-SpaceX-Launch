@@ -16,3 +16,5 @@ Using Data Science to predict SpaceX landing success and rocket reusability. A j
 - Predictive analysis to determine the succesful launches
     - Use the Supervised learning SVM, classification tree and Logistic regression models
     - determine which models perform best using score
+- Presentation
+    - Powerpoint presentation walking through all the steps of the project including visualization representations of findings and summary 
