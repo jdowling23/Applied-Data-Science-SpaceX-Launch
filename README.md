@@ -13,4 +13,6 @@ Using Data Science to predict SpaceX landing success and rocket reusability. A j
 - Interactive visual dashboard - SpaceX Dashboard
     - Use dash library to create a dashboard dropdown to choose the launchsite. Visualized with a pie chart and scatter plot for the different launch sites and the successful outcomes
     ![alt text](https://github.com/jdowling23/Applied-Data-Science-SpaceX-Launch/blob/main/SpaceX-Dashboard/Dahsboard-screenshot.png "Dashboard screenshot")
-- Predictive analysis
+- Predictive analysis to determine the succesful launches
+    - Use the Supervised learning SVM, classification tree and Logistic regression models
+    - determine which models perform best using score
